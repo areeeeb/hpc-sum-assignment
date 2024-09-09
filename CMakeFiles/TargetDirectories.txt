@@ -1,0 +1,6 @@
+/Users/areeb/programming/SFSU/HPC/assignment_1/sum_harness_instructional/CMakeFiles/benchmark.dir
+/Users/areeb/programming/SFSU/HPC/assignment_1/sum_harness_instructional/CMakeFiles/sum_direct.dir
+/Users/areeb/programming/SFSU/HPC/assignment_1/sum_harness_instructional/CMakeFiles/sum_vector.dir
+/Users/areeb/programming/SFSU/HPC/assignment_1/sum_harness_instructional/CMakeFiles/sum_indirect.dir
+/Users/areeb/programming/SFSU/HPC/assignment_1/sum_harness_instructional/CMakeFiles/edit_cache.dir
+/Users/areeb/programming/SFSU/HPC/assignment_1/sum_harness_instructional/CMakeFiles/rebuild_cache.dir
