@@ -52,7 +52,7 @@ int main(int argc, char **argv)
    int64_t t;
    int n_problems = problem_sizes.size();
 
-   std::cout << "Problem Size,Elapsed Time (s),Sum Result,MFLOP/s,Bandwidth Utilization (%),Memory Latency (ns)\n";
+   // std::cout << "Problem Size,Elapsed Time (s),Sum Result,MFLOP/s,Bandwidth Utilization (%),Memory Latency (ns)\n";
 
    for (int64_t n : problem_sizes)
    {
